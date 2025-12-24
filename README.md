@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthikeya Shailesh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **Insite web development**
-
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **karthikeyashaileshkumar@gmail.com**
